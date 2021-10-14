@@ -1,2 +1,2 @@
 # Project-154-UnderSea-Treasures
-A Web VR project where you can see a schoool of fish go by, and collect undersea treasure.
+This was probably one of the fastest projects I have ever done. It was so easy!
